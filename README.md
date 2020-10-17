@@ -60,6 +60,7 @@ Describe any challenges encountered while building the app.
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+- [Parceler](https://github.com/johncarl81/parceler) - Great way to serialize Java Objects between Contexts.
 
 ## License
 
